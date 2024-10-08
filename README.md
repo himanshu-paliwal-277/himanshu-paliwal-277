@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end Developer and 4th-year B.Tech Computer Science student from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
@@ -35,9 +35,9 @@
 ### 🌟 Projects & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=crypto-tracker&theme=react" alt="Crypto Tracker Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=weather-app&theme=react" alt="Weather App Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=hangman-game&theme=react" alt="Hangman Game Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Coingecko-Crypto-Tracker-React&theme=react" alt="Crypto Tracker Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=WeatherAppInReact&theme=react" alt="Weather App Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Hangman-Game-In-React&theme=react" alt="Hangman Game Project" />
 </p>
 
 ---
@@ -45,9 +45,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-paliwal-277&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-paliwal-277&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-paliwal-277&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
@@ -55,13 +55,13 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/himanshupaliwal251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hpaliwal364@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/himanshu-paliwal-277" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
