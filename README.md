@@ -49,7 +49,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu-paliwal-277&show_icons=true&theme=react" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-paliwal-277&theme=react" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-paliwal-277&layout=compact&theme=react" alt="Top Languages" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-paliwal-277&layout=compact&theme=react" alt="Top Languages" />
+  </div>
 </p>
 
 </div>
