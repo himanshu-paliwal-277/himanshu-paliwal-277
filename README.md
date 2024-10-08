@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Himanshu 👋</h1>
+<h3 align="center">A passionate Front-end Developer and 4th-year B.Tech Computer Science student from India</h3>
 
-<!--
-**himanshu-paliwal-277/himanshu-paliwal-277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills and Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Two-time Winner of the OU Hackathon**
+- 📈 **Completed 250+ problems on LeetCode**
+- 🚀 **Deployed several projects to Vercel and built responsive web apps**
+
+---
+
+### 🌟 Projects & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=crypto-tracker&theme=react" alt="Crypto Tracker Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=weather-app&theme=react" alt="Weather App Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=hangman-game&theme=react" alt="Hangman Game Project" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
