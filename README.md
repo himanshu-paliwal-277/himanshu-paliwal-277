@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Himanshu 👋</h1>
-<h3 align="center">A passionate Front-end Developer and 4th-year B.Tech Computer Science student from India</h3>
+<h3 align="center">A passionate Full Stack Developer and final year B.Tech Computer Science student from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
