@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Himanshu 👋</h1>
-<h3 align="center">A passionate Full Stack Developer and final year B.Tech Computer Science student from India</h3>
+<h1 align="center">Hi, I'm Himanshu 👋</h1> 
+<h3 align="center">Final Year B.Tech Computer Science Student | SDE Intern @ Flipr | Full Stack Developer | Next.js, TypeScript & MERN Stack Enthusiast</h3> 
+<p align="center"> I’m passionate about building scalable, high-performance web applications and constantly exploring new technologies to improve my skills. </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
@@ -12,8 +13,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?&style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -26,8 +30,8 @@
 
 ### 🏆 Achievements
 
-- 🥇 **Two-time Winner of the OU Hackathon**
-- 📈 **Completed 250+ problems on LeetCode**
+- 🥇 **Three-times Winner of the OU Hackathon**
+- 📈 **Completed 280+ problems on LeetCode**
 - 🚀 **Deployed several projects to Vercel and built responsive web apps**
 
 ---
