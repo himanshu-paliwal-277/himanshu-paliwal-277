@@ -62,7 +62,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshupaliwal251/" target="_blank">
+  <a href="https://www.linkedin.com/in/himanshu-paliwal-0a1309358/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hpaliwal364@gmail.com">
