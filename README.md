@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Himanshu 👋</h1> 
-<h3 align="center">Final Year B.Tech Computer Science Student | SDE Intern @ Flipr | Full Stack Developer | Next.js, TypeScript & MERN Stack Enthusiast</h3> 
-<p align="center"> I’m passionate about building scalable, high-performance web applications and constantly exploring new technologies to improve my skills. </p>
+<h1 align="center">Hi, I'm Himanshu 👋</h1>
+<h3 align="center">B.Tech Computer Science Graduate | Ex SDE Intern @ Flipr | Full Stack Developer | React, Next.js, TypeScript & MERN Stack Enthusiast</h3>
+<p align="center">
+  I’m passionate about building scalable, high-performance web applications and constantly exploring new technologies to improve my skills.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
