@@ -49,8 +49,8 @@
 ### 🌟 Projects & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Slack-Project-Backend&theme=react" alt="Weather App Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Slack-Project-Frontend&theme=react" alt="Hangman Game Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Slack-Project-Backend&theme=react" alt="Slack-Project-Backend" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Slack-Project-Frontend&theme=react" alt="Slack-Project-Frontend" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Coingecko-Crypto-Tracker-React&theme=react" alt="Crypto Tracker Project" />
 </p>
 
