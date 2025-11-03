@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Himanshu 👋</h1>
+<h1 align="center">Hi, I'm Himanshu Paliwal 👋</h1>
 <h3 align="center">Full Stack Developer (MERN) | Software Engineer Intern @ Inventurs | Ex SDE-1 Intern @ Flipr | B.Tech CSE Graduate</h3>
 
 <p align="center">
