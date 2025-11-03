@@ -1,49 +1,57 @@
 <h1 align="center">Hi, I'm Himanshu 👋</h1>
-<h3 align="center">B.Tech Computer Science Graduate | Ex SDE Intern @ Flipr | Full Stack Developer | React, Next.js, TypeScript & MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Developer (MERN) | Software Engineer Intern @ Inventurs | Ex SDE-1 Intern @ Flipr | B.Tech CSE Graduate</h3>
+
 <p align="center">
-  I’m passionate about building scalable, high-performance web applications and constantly exploring new technologies to improve my skills.
+  I’m a passionate and results-driven <b>Full Stack Developer</b> with hands-on experience building scalable, high-performance, and visually engaging web applications using <b>React, Next.js, Node.js, Express, and MongoDB</b>.  
+  I love solving complex problems, contributing to impactful products, and continuously learning new technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-paliwal-277" />
 </p>
 
 ---
 
-### 🛠️ Skills and Technologies
+### 🚀 About Me
+
+- 🔭 Currently working as a **Software Engineer (MERN) Intern at Inventurs**
+- 💻 Previously worked as an **SDE-1 Intern at Flipr Technologies**
+- ⚡ Solved **280+ DSA problems on LeetCode**
+- 🏆 **4-time coding competition winner** — 2 college contests & 2 inter-college hackathons
+- 🎯 Interested in **Frontend Development, Full Stack Projects, and Scalable System Design**
+- 🌱 Continuously improving skills in **TypeScript, Zustand, and GraphQL APIs**
+- 📫 Reach me at **hpaliwal364@gmail.com**
+- 🌍 Portfolio: *Coming Soon*
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?&style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-%23007FFF.svg?&style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-%23FF6C37.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 🏆 Achievements
-
-- 🥇 **Three-times Winner of the OU Hackathon**
-- 📈 **Completed 280+ problems on LeetCode**
-- 🚀 **Deployed several projects to Vercel and built responsive web apps**
 
 ---
 
 ### 🌟 Projects & Contributions
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Slack-Project-Backend&theme=react" alt="Weather App Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Slack-Project-Frontend&theme=react" alt="Hangman Game Project" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Coingecko-Crypto-Tracker-React&theme=react" alt="Crypto Tracker Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=WeatherAppInReact&theme=react" alt="Weather App Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-paliwal-277&repo=Hangman-Game-In-React&theme=react" alt="Hangman Game Project" />
 </p>
 
 ---
