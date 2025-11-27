@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Himanshu Paliwal 👋</h1>
-<h3 align="center">Full Stack Developer (MERN) | Software Engineer Intern @ Inventurs | Ex SDE-1 Intern @ Flipr | B.Tech CSE Graduate</h3>
+<h3 align="center">Full Stack Developer (MERN) | B.Tech CSE Graduate</h3>
 
 <p align="center">
   I’m a passionate and results-driven <b>Full Stack Developer</b> with hands-on experience building scalable, high-performance, and visually engaging web applications using <b>React, Next.js, Node.js, Express, and MongoDB</b>.  
@@ -14,11 +14,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Software Engineer (MERN) Intern at Inventurs**
-- 💻 Previously worked as an **SDE-1 Intern at Flipr Technologies**
 - ⚡ Solved **280+ DSA problems on LeetCode**
 - 🏆 **4-time coding competition winner** — 2 college contests & 2 inter-college hackathons
-- 🎯 Interested in **Frontend Development, Full Stack Projects, and Scalable System Design**
+- 🎯 Focused on **Frontend Development, Full Stack Projects, and Scalable System Design**
 - 🌱 Continuously improving skills in **TypeScript, Zustand, and GraphQL APIs**
 - 📫 Reach me at **hpaliwal364@gmail.com**
 - 🌍 Portfolio: *Coming Soon*
@@ -67,7 +65,6 @@
 </p>
 
 ---
-
 
 ### 📫 Connect with Me
 
