@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 💼 **Full Stack Developer (MERN) at Inventurs**
-- 👨‍💻 **10+ months of professional experience** (Intern + Full-Time)
+- 👨‍💻 **1 year of professional experience** (Intern + Full-Time)
 - ⚡ Solved **280+ DSA problems on LeetCode**
 - 🏆 **4-time coding competition winner** (college & inter-college hackathons)
 - 🎯 Strong focus on **Frontend Engineering, Full Stack Development & Scalable Systems**
