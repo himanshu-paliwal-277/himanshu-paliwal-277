@@ -8,12 +8,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=himanshu-paliwal-277&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Profile Views" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ3ZmV4cmU5eHN5bXNtNW14bDZrdG9hMWRrNXM1Znh0a2ZybWV2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ3ZmV4cmU5eHN5bXNtNW14bDZrdG9hMWRrNXM1Znh0a2ZybWV2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" 
+    alt="Coding animation" 
+    width="420"
+  />
 </p>
+
 
 ---
 
